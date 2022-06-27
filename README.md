@@ -1,9 +1,11 @@
 ## 👋 Web Full-Stack Engineer
+
 <a href="https://www.linkedin.com/in/andy-kwon1203/" target="_blank"><img src="https://img.shields.io/badge/@Hyeongjoo-blue?logo=linkedin"></a>
 <br/><br/>
 
 
 ## 🤜 I was..
+
 ![CEO](https://img.shields.io/badge/CEO-red)
 ![Co-Founder](https://img.shields.io/badge/Co%20Founder-red)
 ![CTO](https://img.shields.io/badge/CTO-red)
@@ -62,7 +64,8 @@
 ![Vue](https://img.shields.io/badge/jQuery-yellow?logo=jquery)
 ![Vue](https://img.shields.io/badge/CSS&Sass-yellow?logo=CSS3)
 
-### Mobile Device
+
+### Mobile App
 ![ReactNative](https://img.shields.io/badge/React%20Native-yellow?logo=react)
 
 
